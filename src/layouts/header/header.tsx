@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import {Box, Flex} from "@chakra-ui/react";
 
 function Header() {
@@ -9,7 +9,7 @@ function Header() {
 				<Box>Login</Box>
 			</Flex>
 		</Box>
-	)
+	);
 }
 
-export default Header
+export default Header;
